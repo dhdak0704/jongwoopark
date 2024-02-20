@@ -21,7 +21,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Kookmin University
+  - name: KATECH
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
