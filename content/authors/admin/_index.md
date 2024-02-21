@@ -117,5 +117,7 @@ social:
 highlight_name: true
 ---
 
-jongwoo park!!!!! is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello. I am Jongwoo Park, a researcher at the KATECH(Korea Automotive Technology Institue).
+I am currently working on the field of 'Driver Misuse and System Performance Limitations in Autonomous Vehicles'.
+My final research goal is to provide safe vehicles considering both driver misuse and system performance limitations.
 {style="text-align: justify;"}
