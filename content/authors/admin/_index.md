@@ -17,34 +17,31 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: KATECH
-    url: https://www.stanford.edu/
+  - name: KATECH (Korea Automotive Technology Institue)
+    url: https://www.katech.re.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ee?? research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Driver Safety (Driver misuse and System performance limitation)
+  - HMI (Human Machine Interation) in vehicles
+  - Human factors (Biometric data, Emotion)
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.S., Department of Automobile and IT Convergence
+      institution: Kookmin University
+      year: 2023
+    - course: B.S., Department of Mechanical System Engineering
+      institution: Kumoh National Institute of Technology
+      year: 2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+jongwoo park!!!!! is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
