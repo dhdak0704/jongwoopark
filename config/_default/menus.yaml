@@ -3,21 +3,24 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-main:
-  - name: Home
-    url: '#about'
+main:  # first page(home): self-intro, skill, main experience, recent research area
+  #- name: Home
+    #url: '#about'
+    #weight: 10
+  - name: Work
+    url: '#work'
     weight: 10
-  - name: Posts
-    url: '#posts'
-    weight: 20
   - name: Projects
     url: '#projects'
+    weight: 20
+  - name: Achievements   # conferences, patents, awards/honors, others
+    url: '#achievements'
     weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
   - name: Publications
     url: '#featured'
+    weight: 40
+  - name: Others   # personal hobby and gallery
+    url: '#others'
     weight: 50
   - name: Contact
     url: '#contact'
