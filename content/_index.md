@@ -50,7 +50,8 @@ sections:
       username: admin
     design:
       columns: '1'
-  - block: experience
+  - block: Work experience
+    id: Work
     content:
       title: Experience
       # Date format for experience
@@ -62,15 +63,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
+        - title: Researcher
           company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          company_url: 'https://www.katech.re.kr/'
+          company_logo: 'static/images/KATECH_logo.gif'
+          location: Cheonan-Si, Chungnam, KOREA
+          date_start: '2023-09-01'
+          date_end: 'Present'
           description: |2-
-              Responsibilities include:
+              Research area Responsibilities include:
 
               * Analysing
               * Modelling
