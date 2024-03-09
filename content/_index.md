@@ -69,7 +69,7 @@ sections:
           company_logo: #'/workspaces/jongwoopark/static/uploads/KATECH_logo(png)' logo       
           location: Cheonan-Si, Chungnam, KOREA
           date_start: '2023-09-01'
-          date_end: 'Present'
+          date_end: ''
           description: |2-
               Research area Responsibilities include:
 
