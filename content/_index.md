@@ -50,7 +50,7 @@ sections:
       username: admin
     design:
       columns: '1'
-  - block: Work
+  - block: Experience
     id: Work
     content:
       title: Work Experience
