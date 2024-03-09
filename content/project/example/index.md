@@ -1,12 +1,10 @@
 ---
 title: SOTIF
 summary: |2-
-    Sponsor
-    * dd
-    Topic
-    * dd
-    Role
-    * dd
+    - Sponsor: dd
+    - Topic: dd
+    - Role: dd
+    
 (image click) SOTIF is blabla....
 tags:
   - On-going
