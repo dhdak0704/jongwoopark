@@ -82,7 +82,7 @@ skills:
         percent: 80
         icon: camera-retro
         icon_pack: fas
-  - name: Hobbies2
+  - name: Hobbies2 test
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
