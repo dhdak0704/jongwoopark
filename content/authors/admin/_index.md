@@ -109,7 +109,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:dhdak0704@gmail.com 
+    link: 'mailto:dhdak0704@gmail.com'
   # link: '/#contact' 
   # - icon: twitter
   #   icon_pack: fab
