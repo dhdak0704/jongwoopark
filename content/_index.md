@@ -64,26 +64,56 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Researcher
-          company: GenCoin
+          company: KATECH (Korea Automotive Technology Institute)
           company_url: 'https://www.katech.re.kr/'
           company_logo: #'/workspaces/jongwoopark/static/uploads/KATECH_logo(png)' logo       
-          location: Cheonan-Si, Chungnam, KOREA
+          location: Cheonan-si, Chungnam, KOREA
           date_start: '2023-09-01'
           date_end: ''
           description: |2-
-              Research area Responsibilities include:
+              Department
+              * ITS R＆D Department / Automated Driving Technology Research Division
+                            
+              Responsibilities
+              * (being updated)
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Researcher
+          company: KOTI (Korea Transport Institute)
+          company_url: 'https://www.koti.re.kr/index.do'
+          company_logo: #'/workspaces/jongwoopark/static/uploads/KATECH_logo(png)' logo       
+          location: Sejong-si, KOREA
+          date_start: '2023-07-01'
+          date_end: '2023-08-14'
+          description: |2-
+              Department
+              * Department of Mobility Transformation
+                            
+              Responsibilities
+              * (being updated)
+
+        - title: Student Researcher
+          company: Kookmin University
+          company_url: 'https://huva.kookmin.ac.kr/huva/index.do'
+          company_logo: #'/workspaces/jongwoopark/static/uploads/KATECH_logo(png)' logo       
+          location: Seonbuk-gu, Seoul-si, KOREA
+          date_start: '2021-07-01'
+          date_end: '2023-06-30'
+          description: |2-
+              Department
+              * Humans and Vehicle Automation Laboratoy (HuVA) / Graduate School of Automotive Engineering
+                            
+              Responsibilities
+              * (being updated)
+
+
+        # - title: Professor of Semiconductor Physics
+        #   company: University X
+        #   company_url: ''
+        #   company_logo: org-x
+        #   location: California
+        #   date_start: '2016-01-01'
+        #   date_end: '2020-12-31'
+        #   description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
