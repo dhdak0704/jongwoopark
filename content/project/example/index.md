@@ -7,8 +7,7 @@ summary: |2-
     * dd
     Role
     * dd
-
-(image click) SOTIF is blabla....,
+(image click) SOTIF is blabla....
 tags:
   - On-going
 date: '2023-09-01T00:00:00Z'
