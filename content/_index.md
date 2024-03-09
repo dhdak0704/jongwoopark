@@ -229,9 +229,9 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
+        - name: On-going
+          tag: On-going
+        - name: Completed
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.

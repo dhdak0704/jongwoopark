@@ -1,9 +1,17 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: SOTIF
+summary: |2-
+    Sponsor
+    * dd
+    Topic
+    * dd
+    Role
+    * dd
+
+(image click) SOTIF is blabla....,
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - On-going
+date: '2023-09-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
