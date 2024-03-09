@@ -81,7 +81,7 @@ sections:
           company: KOTI (Korea Transport Institute)
           company_url: 'https://www.koti.re.kr/index.do'
           company_logo: #'/workspaces/jongwoopark/static/uploads/KATECH_logo(png)' logo       
-          location: Sejong-si, KOREA
+          location: Sejong, KOREA
           date_start: '2023-07-01'
           date_end: '2023-08-14'
           description: |2-
@@ -95,7 +95,7 @@ sections:
           company: Kookmin University
           company_url: 'https://huva.kookmin.ac.kr/huva/index.do'
           company_logo: #'/workspaces/jongwoopark/static/uploads/KATECH_logo(png)' logo       
-          location: Seonbuk-gu, Seoul-si, KOREA
+          location: Seonbuk-gu, Seoul, KOREA
           date_start: '2021-07-01'
           date_end: '2023-06-30'
           description: |2-
@@ -105,6 +105,33 @@ sections:
               Responsibilities
               * (being updated)
 
+        - title: First lieutenant (ROTC, Reserve Officer Training Corps)
+          company: ROK Army (Republic of Korea Army)
+          company_url: 'https://www.army.mil.kr/sites/army/index.do'
+          company_logo: #'/workspaces/jongwoopark/static/uploads/KATECH_logo(png)' logo       
+          location: Gangwon-Goseong, KOREA
+          date_start: '2019-03-01'
+          date_end: '2021-06-30'
+          description: |2-
+              Department
+              * 7575 Artillery Battalion / VIII Corps.
+                            
+              Responsibilities
+              * (being updated)
+
+        - title: Research assistant
+          company: DGIST (Daegu Gyeongbuk Institute of Science＆Technology)
+          company_url: 'https://www.dgist.ac.kr/mobility/'
+          company_logo: #'/workspaces/jongwoopark/static/uploads/KATECH_logo(png)' logo       
+          location: Daegu, KOREA
+          date_start: '2018-12-31'
+          date_end: '2019-01-25'
+          description: |2-
+              Department
+              * Division of Automotive Technology
+                            
+              Responsibilities
+              * (being updated)
 
         # - title: Professor of Semiconductor Physics
         #   company: University X
