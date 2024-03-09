@@ -66,7 +66,7 @@ sections:
         - title: Researcher
           company: GenCoin
           company_url: 'https://www.katech.re.kr/'
-          company_logo: '/workspaces/jongwoopark/static/uploads/KATECH_logo(svg)'          
+          company_logo: '/workspaces/jongwoopark/static/uploads/KATECH_logo(png).png'          
           location: Cheonan-Si, Chungnam, KOREA
           date_start: '2023-09-01'
           date_end: 'Present'
