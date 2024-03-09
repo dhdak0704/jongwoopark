@@ -50,10 +50,10 @@ sections:
       username: admin
     design:
       columns: '1'
-  - block: Work experience
+  - block: Work
     id: Work
     content:
-      title: Experience
+      title: Work Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
