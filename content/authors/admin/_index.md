@@ -46,61 +46,87 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical_test
+  - name: Software (Analysis tool)
     items:
-      - name: Python
+      - name: MATLAB - Data processing, Visualization, Statistics analysis
         description: ''
-        percent: 80
+        percent: 90
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: MATLAB - Simulink, App designer
         description: ''
-        percent: 100
+        percent: 60
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: SPSS - T-Test, ANOVA, Correlation
         description: ''
-        percent: 40
+        percent: 30
         icon: database
         icon_pack: fas
-  - name: Hobbies_test
+  - name: Hardware (Equipment)
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Driving Simulator (Full-scale)
         description: ''
-        percent: 60
+        percent: 80
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Physiological Acquisition (BIOPAC)
+        description: ''
+        percent: 80
+        icon: cat
+        icon_pack: fas
+      - name: HIL (dSPACE SCALEXIO)
+        description: ''
+        percent: 30
+        icon: camera-retro
+        icon_pack: fas
+  - name: Software (Simulation tool)
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: dSPACE - ASM, model desk, AURELION
+        description: ''
+        percent: 30
+        icon: person-hiking
+        icon_pack: fas
+      - name: AVSimulation - SCANeR studio
+        description: ''
+        percent: 70
+        icon: cat
+        icon_pack: fas
+        
+  - name: Language
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Korean (native fluency)
+        description: ''
+        percent: 100
+        icon: person-hiking
+        icon_pack: fas
+      - name: English
+        description: ''
+        percent: 70
+        icon: cat
+        icon_pack: fas
+
+  - name: Certificate
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Industrial Engineer Motor Vehicles Maintenance
+        description: ''
+        percent: 100
+        icon: person-hiking
+        icon_pack: fas
+      - name: Engineer Industrial Safety
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
-  - name: Hobbies2 test
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+        
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
