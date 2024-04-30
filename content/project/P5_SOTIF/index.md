@@ -1,5 +1,5 @@
 ---
-title: SOTIF
+title: SOTIF (Performance limit)
 summary: |2-
     - Sponsor: Ministry of Trade, Industry and Energy
     - Period: Sep. 2023 - Present

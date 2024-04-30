@@ -1,5 +1,5 @@
 ---
-title: Motion Sickness
+title: Driver Motion Sickness
 summary: |2-
     - Sponsor: HYUNDAI MOBIS
     - Period: Jan. 2022 – Oct. 2022

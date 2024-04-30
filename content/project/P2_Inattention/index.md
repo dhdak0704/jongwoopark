@@ -1,5 +1,5 @@
 ---
-title: Inattention
+title: Driver EEG-based Drowsiness & Inattention
 summary: |2-
     - Sponsor: HYUNDAI MOBIS
     - Period: May. 2021 – Dec. 2021
