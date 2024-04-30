@@ -232,7 +232,7 @@ sections:
         - name: On-going
           tag: On-going
         - name: Completed
-          tag: Demo
+          tag: Completed
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
