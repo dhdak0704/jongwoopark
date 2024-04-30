@@ -2,7 +2,7 @@
 title: Driver Emotion Recognition
 summary: |2-
     - Sponsor: Institute of Advanced Technology Development of HMG
-    - period: Oct. 2022 – Aug. 2023
+    - Period: Oct. 2022 – Aug. 2023
     - Role: Practical Manager
 
     -(image click) This project is a study conducting validation of driver emotion induction techniques using a vehicle simulator and analysis of physiological signal changes according to emotion.
