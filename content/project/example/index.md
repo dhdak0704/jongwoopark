@@ -2,13 +2,13 @@
 title: SOTIF
 summary: |2-
     - Sponsor: Ministry of Trade, Industry and Energy
-    - Topic: Lv.4 Autonomus vehicle HARA analysis and SOTIF scenario verification
+    - Period: Sep. 2023 - Present
     - Role: Practitioner
 
-    -(image click) SOTIF is blabla....
+    -(image click) This project is a study conducting Lv.4 Autonomous Vehicle HARA Analysis and SOTIF scenario verification
 tags:
   - On-going
-date: '2023-09-01T00:00:00Z'
+date: '2024-04-30T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -17,15 +17,15 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+# links:
+#   - icon: twitter
+#     icon_pack: fab
+#     name: Follow
+#     url: https://twitter.com/georgecushen
+# url_code: ''
+# url_pdf: ''
+# url_slides: ''
+# url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
