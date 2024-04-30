@@ -8,7 +8,7 @@ summary: |2-
     -(image click) This study is a research project conducting analysis of motion sickness reduction effects based on real-world driving and on-road experiment data applying passenger motion sickness reduction factors.
 tags:
   - Completed
-date: '2024-04-30T00:00:00Z'
+date: '2024-04-28T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

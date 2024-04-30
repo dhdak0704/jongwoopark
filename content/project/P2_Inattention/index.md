@@ -8,7 +8,7 @@ summary: |2-
     -(image click) This project is a study evaluating the performance of a drowsiness and inattention reduction device (earset) utilizing driver's brainwaves.
 tags:
   - Completed
-date: '2024-04-30T00:00:00Z'
+date: '2024-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
