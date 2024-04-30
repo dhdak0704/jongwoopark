@@ -75,21 +75,21 @@ sections:
               * ITS R＆D Department / Automated Driving Technology Research Division
                             
               Responsibilities
-              * (being updated)
+              * Development of performance limit situation verification method from the SOTIF perspective for Lv.4 autonomus vehicles
 
-        - title: Researcher
-          company: KOTI (Korea Transport Institute)
-          company_url: 'https://www.koti.re.kr/index.do'
-          company_logo: #'/workspaces/jongwoopark/static/uploads/KATECH_logo(png)' logo       
-          location: Sejong, KOREA
-          date_start: '2023-07-01'
-          date_end: '2023-08-14'
-          description: |2-
-              Department
-              * Department of Mobility Transformation
+        # - title: Researcher
+        #   company: KOTI (Korea Transport Institute)
+        #   company_url: 'https://www.koti.re.kr/index.do'
+        #   company_logo: #'/workspaces/jongwoopark/static/uploads/KATECH_logo(png)' logo       
+        #   location: Sejong, KOREA
+        #   date_start: '2023-07-01'
+        #   date_end: '2023-08-14'
+        #   description: |2-
+        #       Department
+        #       * Department of Mobility Transformation
                             
-              Responsibilities
-              * (being updated)
+        #       Responsibilities
+        #       * (being updated)
 
         - title: Student Researcher
           company: Kookmin University
@@ -97,13 +97,13 @@ sections:
           company_logo: #'/workspaces/jongwoopark/static/uploads/KATECH_logo(png)' logo       
           location: Seonbuk-gu, Seoul, KOREA
           date_start: '2021-07-01'
-          date_end: '2023-06-30'
+          date_end: '2023-08-16'
           description: |2-
               Department
               * Humans and Vehicle Automation Laboratoy (HuVA) / Graduate School of Automotive Engineering
                             
               Responsibilities
-              * (being updated)
+              * Validation of driver monitoring system effects(cogresponse,emotion,eeg) using driving simulator
 
         - title: First lieutenant (ROTC, Reserve Officer Training Corps)
           company: ROK Army (Republic of Korea Army)
@@ -117,7 +117,7 @@ sections:
               * 7575 Artillery Battalion / VIII Corps.
                             
               Responsibilities
-              * (being updated)
+              * Organization of Battalion Operations Plan and Training, Troop Control
 
         - title: Research assistant
           company: DGIST (Daegu Gyeongbuk Institute of Science＆Technology)
@@ -131,7 +131,7 @@ sections:
               * Division of Automotive Technology
                             
               Responsibilities
-              * (being updated)
+              * Construction of precision mapping for DGIST campus based on PCD(Point Cloud Data)
 
         # - title: Professor of Semiconductor Physics
         #   company: University X
