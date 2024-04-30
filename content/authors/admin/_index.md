@@ -48,7 +48,7 @@ education:
 skills:
   - name: Software (Analysis tool)
     items:
-      - name: MATLAB - Data processing, Visualization, Statistics analysis
+      - name: MATLAB - Data processing, Visualization
         description: ''
         percent: 90
         icon: python
@@ -77,25 +77,25 @@ skills:
         percent: 80
         icon: cat
         icon_pack: fas
-      - name: HIL (dSPACE SCALEXIO)
+      - name: Eye-Tracker (Smart Eye)
         description: ''
         percent: 30
         icon: camera-retro
         icon_pack: fas
-  - name: Software (Simulation tool)
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: dSPACE - ASM, model desk, AURELION
-        description: ''
-        percent: 30
-        icon: person-hiking
-        icon_pack: fas
-      - name: AVSimulation - SCANeR studio
-        description: ''
-        percent: 70
-        icon: cat
-        icon_pack: fas
+  # - name: Software (Simulation tool)
+  #   color: '#eeac02'
+  #   color_border: '#f0bf23'
+  #   items:
+  #     - name: dSPACE - ASM, model desk, AURELION
+  #       description: ''
+  #       percent: 30
+  #       icon: person-hiking
+  #       icon_pack: fas
+  #     - name: AVSimulation - SCANeR studio
+  #       description: ''
+  #       percent: 70
+  #       icon: cat
+  #       icon_pack: fas
         
   - name: Language
     color: '#eeac02'
@@ -108,7 +108,7 @@ skills:
         icon_pack: fas
       - name: English
         description: ''
-        percent: 70
+        percent: 50
         icon: cat
         icon_pack: fas
 
