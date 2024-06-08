@@ -1,5 +1,5 @@
 ---
-title: SOTIF (Performance limit)
+title: eHMI (Performance limit)
 summary: |2-
     - Sponsor: Ministry of Trade, Industry and Energy
     - Period: Sep. 2023 - May. 2024
@@ -7,8 +7,8 @@ summary: |2-
 
     -(image click) This project is a study conducting Lv.4 Autonomous Vehicle HARA Analysis and SOTIF scenario verification
 tags:
-  - Completed
-date: '2024-04-30T00:00:00Z'
+  - On-going
+date: '2024-06-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -39,7 +39,7 @@ external_link: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: P00_SOTIF
+slides: P00_Delivery eHMI
 ---
 
 ![screen reader text](SOTIF0.jpg "Examples of SOTIF Scenarios")
