@@ -13,10 +13,16 @@ date: '2024-04-30T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart  
+# image:
+#   caption: Photo by rawpixel on Unsplash
+#   focal_point: Smart  
 
+  image:
+    caption: SOTIF0 image
+    focal_point: Smart
+    preview_only: false
+    url: /workspaces/jongwoopark/images/SOTIF0.jpg
+    
 # links:
 #   - icon: twitter
 #     icon_pack: fab
@@ -36,6 +42,7 @@ slides: P00_SOTIF
 ---
 
 ![screen reader text](SOTIF0.jpg "caption")
+/workspaces/jongwoopark/images
 
 Research Title: Development of Safety of the Intended Functionality from Insufficiency of Perception and Decision Making
 
