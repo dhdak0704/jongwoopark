@@ -34,7 +34,6 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: P1_Takeover
 ---
-
 Research Title: Development of Safety of the Intended Functionality from Insufficiency of Perception and Decision Making
 Sponsor: Ministry of Trade, Industry and Energy
 Participating Institutions: KATECH (lead), HL Klemove, MORAI, SUM, C&BIS, KMU, AJU, KAAMI   * Participating as part of KATECH
