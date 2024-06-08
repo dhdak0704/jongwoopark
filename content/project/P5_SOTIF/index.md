@@ -14,7 +14,7 @@ date: '2024-04-30T00:00:00Z'
 external_link: ''
 
 image:
-  caption: SOTIF
+  caption: Photo by rawpixel on Unsplash
   focal_point: Smart  
 
 # links:
