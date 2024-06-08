@@ -16,7 +16,7 @@ external_link: ''
   image:
     caption: Photo by rawpixel on Unsplash
     focal_point: Smart  
-    url: images/SOTIF0.jpg 
+    url: images/SOTIF0.jpg
 
   # image:
   #   caption: SOTIF0 image
