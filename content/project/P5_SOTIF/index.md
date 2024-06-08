@@ -35,6 +35,8 @@ image:
 slides: P00_SOTIF
 ---
 
+![screen reader text](SOTIF0.jpg "caption")
+
 Research Title: Development of Safety of the Intended Functionality from Insufficiency of Perception and Decision Making
 
 Sponsor: Ministry of Trade, Industry and Energy
