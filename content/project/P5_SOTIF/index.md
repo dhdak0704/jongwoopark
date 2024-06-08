@@ -13,15 +13,9 @@ date: '2024-04-30T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-# image:
-#   caption: Photo by rawpixel on Unsplash
-#   focal_point: Smart  
-
-  image:
-  caption: SOTIF0 image
-  focal_point: Smart
-  preview_only: false
-  url: content-project-p5_sotif/SOTIF0.jpg
+image:
+  caption: SOTIF
+  focal_point: Smart  
 
 # links:
 #   - icon: twitter
@@ -42,10 +36,13 @@ slides: P00_SOTIF
 ---
 
 Research Title: Development of Safety of the Intended Functionality from Insufficiency of Perception and Decision Making
+
 Sponsor: Ministry of Trade, Industry and Energy
+
 Participating Institutions: KATECH (lead), HL Klemove, MORAI, SUM, C&BIS, KMU, AJU, KAAMI   * Participating as part of KATECH
 
 Research Period: 2022. 04. 01 - 2026. 12. 31
+
 Participation Period: 2023. 09. 01 - 2024. 05. 23
 
 Keywords: SOTIF, misuse, performance limitation
@@ -61,11 +58,7 @@ This concept is referred to as "Safety of the Intended Functionality" or "SOTIF"
 
 Situations related to SOTIF include "system performance limitations" and "driver misuse".
 
-[SOTIF3AAA](images/SOTIF2.jpg)
-
 For example, among the perception sensors of an autonomous driving system, cameras can be vulnerable to lighting and optical conditions, leading to risks due to performance limitations in backlight situations. Additionally, radar sensors can be sensitive to resolution and detection conditions. Due to these weaknesses, performance limitations may lead to the system failing to detect small objects or objects closely adjacent to each other, causing potential risks.
-
-[SOTIF3BBB](images/SOTIF3.jpg)
 
 Furthermore, a performance limitation situation due to driver misuse could involve a scenario where the autonomous driving system provides a control handover alert to the driver in a situation requiring control handover (not Level 4), but the driver, wearing headphones and sleeping, fails to notice the alert, leading to a dangerous situation.
 
