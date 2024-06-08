@@ -17,11 +17,11 @@ external_link: ''
 #   caption: Photo by rawpixel on Unsplash
 #   focal_point: Smart  
 
-  image:
-    caption: SOTIF0 image
-    focal_point: Smart
-    preview_only: false
-    url: /workspaces/jongwoopark/images/SOTIF0.jpg
+  # image:
+  #   caption: SOTIF0 image
+  #   focal_point: Smart
+  #   preview_only: false
+  #   url: /workspaces/jongwoopark/images/SOTIF0.jpg
     
 # links:
 #   - icon: twitter
@@ -41,8 +41,8 @@ external_link: ''
 slides: P00_SOTIF
 ---
 
-![screen reader text](SOTIF0.jpg "caption")
-/workspaces/jongwoopark/images
+![screen reader text](SOTIF0.jpg "Examples of SOTIF Scenarios")
+<!-- /workspaces/jongwoopark/images -->
 
 Research Title: Development of Safety of the Intended Functionality from Insufficiency of Perception and Decision Making
 
