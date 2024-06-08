@@ -54,7 +54,11 @@ This concept is referred to as "Safety of the Intended Functionality" or "SOTIF"
 
 Situations related to SOTIF include "system performance limitations" and "driver misuse".
 
+![SOTIF3AAA](images/SOTIF2.jpg)
+
 For example, among the perception sensors of an autonomous driving system, cameras can be vulnerable to lighting and optical conditions, leading to risks due to performance limitations in backlight situations. Additionally, radar sensors can be sensitive to resolution and detection conditions. Due to these weaknesses, performance limitations may lead to the system failing to detect small objects or objects closely adjacent to each other, causing potential risks.
+
+![SOTIF3BBB](images/SOTIF3.jpg)
 
 Furthermore, a performance limitation situation due to driver misuse could involve a scenario where the autonomous driving system provides a control handover alert to the driver in a situation requiring control handover (not Level 4), but the driver, wearing headphones and sleeping, fails to notice the alert, leading to a dangerous situation.
 
