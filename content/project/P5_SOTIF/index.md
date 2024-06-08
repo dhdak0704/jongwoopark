@@ -2,7 +2,7 @@
 title: SOTIF (Performance limit)
 summary: |2-
     - Sponsor: Ministry of Trade, Industry and Energy
-    - Period: Sep. 2023 - Present
+    - Period: Sep. 2023 - May. 2024
     - Role: Practitioner
 
     -(image click) This project is a study conducting Lv.4 Autonomous Vehicle HARA Analysis and SOTIF scenario verification
@@ -13,9 +13,10 @@ date: '2024-04-30T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-# image:
-#   caption: Photo by rawpixel on Unsplash
-#   focal_point: Smart  
+  image:
+    caption: Photo by rawpixel on Unsplash
+    focal_point: Smart  
+    url: /workspaces/jongwoopark/images/SOTIF0.jpg
 
   # image:
   #   caption: SOTIF0 image
@@ -42,7 +43,6 @@ slides: P00_SOTIF
 ---
 
 ![screen reader text](SOTIF0.jpg "Examples of SOTIF Scenarios")
-<!-- /workspaces/jongwoopark/images -->
 
 Research Title: Development of Safety of the Intended Functionality from Insufficiency of Perception and Decision Making
 
