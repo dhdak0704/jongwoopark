@@ -13,9 +13,15 @@ date: '2024-04-30T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image:
-  caption: Photo by rawpixel on Unsplash
+# image:
+#   caption: Photo by rawpixel on Unsplash
+#   focal_point: Smart  
+
+  image:
+  caption: SOTIF0 image
   focal_point: Smart
+  preview_only: false
+  url: content-project-p5_sotif/SOTIF0.jpg
 
 # links:
 #   - icon: twitter
