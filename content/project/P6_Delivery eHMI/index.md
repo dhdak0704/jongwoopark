@@ -48,7 +48,7 @@ Research Title: Development of Safety of the Intended Functionality from Insuffi
 
 Sponsor: Ministry of Trade, Industry and Energy
 
-Participating Institutions: KATECH (lead), HL Klemove, MORAI, SUM, C&BIS, KMU, AJU, KAAMI   * Participating as part of KATECH
+Participating Institutions: YSU
 
 Research Period: 2022. 04. 01 - 2026. 12. 31
 
