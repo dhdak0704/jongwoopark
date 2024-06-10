@@ -14,12 +14,11 @@ date: '2024-06-01T00:00:00Z'
 external_link: ''
 
 image:
-   caption: Photo by rawpixel on Unsplash
-   focal_point: Smart  
-   url: images/SOTIF0.jpg
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart  
+  url: images/SOTIF0.jpg
 
-slides: ""
-# slides: P00_Delivery eHMI
+slides: P6_Delivery eHMI
 ---
 
 ![screen reader text](SOTIF0.jpg "Examples of SOTIF Scenarios")
