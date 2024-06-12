@@ -3,9 +3,9 @@ title: Driver Takeover
 summary: |2-
     - Sponsor: Namyang R＆D Center of HMG
     - Period: May. 2021 – May. 2022
-    - Role: Practitioner
+    - Role: Practitioner (Contribution: 30%)
 
-    -(image click) This project is a study conducting analysis of driver takeover availability during autonomous driving using eye tracking."
+    - This research aims to develop a take-over framework considering the driver’s mental model to ensure safe take-over during Take-over Requests (TOR) of Level 3 autonomous driving systems.
 tags:
   - Completed
 date: '2024-04-26T00:00:00Z'
@@ -34,32 +34,26 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: P1_Takeover
 ---
-Research Title: Development of Safety of the Intended Functionality from Insufficiency of Perception and Decision Making
-Sponsor: Ministry of Trade, Industry and Energy
-Participating Institutions: KATECH (lead), HL Klemove, MORAI, SUM, C&BIS, KMU, AJU, KAAMI   * Participating as part of KATECH
+Research Title: Development of Driver Risk Scenario and Response Technologies for Autonomous Vehicles Control Takeover VerificationSponsor:Namyang R&D Center of HMG
 
-Research Period: 2022. 04. 01 - 2026. 12. 31
-Participation Period: 2023. 09. 01 - 2024. 05. 23
+Research Period: 2021.05.10 - 2022.05.09
+Participation Period: 2021.09.01 - 2022.05.09
+Role: Practitioner (Contribution: 30%)
 
-Keywords: SOTIF, misuse, performance limitation
+Keywords: Take-over request (TOR), availability, alert, eye tracking, misuse
 
-Research Goal: Development of Level 4 autonomous driving system considering SOTIF (Safety of the Intended Functionality)
+Research Goal: Development of a mental model framework based on driver availability for proper take-over during Take-over Requests (TOR) of Level 3 autonomous driving systems.
 
 Research Introduction:
-This study addresses "risk situations caused by performance limitations rather than failures" in the context of Level 4 autonomous driving systems.
+This research aims to develop a take-over framework considering the driver’s mental model to ensure safe take-over during Take-over Requests (TOR) of Level 3 autonomous driving systems.
+In Level 3 autonomous driving, the system fully controls the vehicle, and the driver is not required to hold the steering wheel or keep their eyes on the road. However, during driving, the driver must be ready to take over promptly if the system issues a Take-over Request (TOR).
+Recently, cases of misuse such as over-reliance on the system, misunderstanding its operational limits, headphone use, and sleeping have been reported.
+These factors can prevent the driver from responding promptly to a Take-over Request (TOR).
+Therefore, in this research, a vehicle simulator equipped with an eye tracker was used to monitor driver postures that hinder quick take-over (e.g., crossing legs, reclining, closed eyes) based on eye-tracking data.
+The driver’s mental model in response to ADS alerts was analyzed using the STPA method.
+As a result, scenarios requiring availability warning alerts were derived through the analysis of the driver’s mental model.
 
-Performance limitations refer to situations that can arise when a system (or its components) combines weaknesses or limitations with specific conditions, without any faults or failures.
-
-This concept is referred to as "Safety of the Intended Functionality" or "SOTIF".
-
-Situations related to SOTIF include "system performance limitations" and "driver misuse".
-
-![SOTIF3AAA](images/SOTIF2.jpg)
-
-For example, among the perception sensors of an autonomous driving system, cameras can be vulnerable to lighting and optical conditions, leading to risks due to performance limitations in backlight situations. Additionally, radar sensors can be sensitive to resolution and detection conditions. Due to these weaknesses, performance limitations may lead to the system failing to detect small objects or objects closely adjacent to each other, causing potential risks.
-
-![SOTIF3BBB](images/SOTIF3.jpg)
-
-Furthermore, a performance limitation situation due to driver misuse could involve a scenario where the autonomous driving system provides a control handover alert to the driver in a situation requiring control handover (not Level 4), but the driver, wearing headphones and sleeping, fails to notice the alert, leading to a dangerous situation.
-
-The ultimate goal of this research is to develop a safer system compared to existing autonomous driving systems by designing safety measures that consider SOTIF scenarios. Safety measure design strategies under review include "limiting system operating range in specific situations," "sensor fusion," and "sensor cleaning.
+Research Achievements:
+• 1 International Conference Presentation (First Author)
+• 1 Domestic Conference Presentation (First Author)
+• 1 Registered Domestic Patent (Inventor)
