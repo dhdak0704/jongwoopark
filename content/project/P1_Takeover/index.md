@@ -5,7 +5,7 @@ summary: |2-
     - Period: May. 2021 – May. 2022
     - Role: Practitioner (Contribution: 30%)
 
-    - This research aims to develop a take-over framework considering the driver’s mental model to ensure safe take-over during Take-over Requests (TOR) of Level 3 autonomous driving systems.
+    - This research aims to develop a take-over framework considering the driver’s mental model to ensure safe take-over during Take-over Requests (TOR) of Level 3 autonomous driving systems. (detail)
 tags:
   - Completed
 date: '2024-04-26T00:00:00Z'
@@ -34,10 +34,12 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: P1_Takeover
 ---
-Research Title: Development of Driver Risk Scenario and Response Technologies for Autonomous Vehicles Control Takeover VerificationSponsor:Namyang R&D Center of HMG
+Research Title: Development of Driver Risk Scenario and Response Technologies for Autonomous Vehicles Control Takeover Verification
 
+Sponsor: Namyang R&D Center of HMG
 Research Period: 2021.05.10 - 2022.05.09
 Participation Period: 2021.09.01 - 2022.05.09
+
 Role: Practitioner (Contribution: 30%)
 
 Keywords: Take-over request (TOR), availability, alert, eye tracking, misuse
