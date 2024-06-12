@@ -3,9 +3,9 @@ title: Driver Emotion Recognition
 summary: |2-
     - Sponsor: Institute of Advanced Technology Development of HMG
     - Period: Oct. 2022 – Aug. 2023
-    - Role: Practical Manager
+    - Role: Practical Manager (Contribution: 80%)
 
-    -(image click) This project is a study conducting validation of driver emotion induction techniques using a vehicle simulator and analysis of physiological signal changes according to emotion.
+    - This research focuses on inducing anger in drivers using emotion induction techniques within a driving simulator environment and studying the characteristics of physiological signals during the driver anger. (detail)
 tags:
   - Completed
 date: '2024-04-29T00:00:00Z'
@@ -34,23 +34,27 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: P00_Emotion
 ---
+Research Title: Development of Driver Emotion Recognition Validation Technology
 
-EMOTION EMOTION SOTIF Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat atdfdfd nulla eleifend gravida.uada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagiwttis pulvinar purus, sed porta quam laoreet at.
+Sponsor: Institute of Advanced Technology Development of HMG
+* Participating as part of KMU(Kookmin University)
+Participation as a master's program at Kookmin University
 
-EMOTION
+Research Period: 2022.10.01 - 2023.09.30
+Participation Period: 2022.10.01 - 2023.06.30
+ * Participated in the research as a master's student at Kookmin University
 
-<!-- ---
-title: Driver Emotion Recognition
-summary: (Emotion) blabla....
-# An example of linking directly to an external project website using `external_link`.
-tags:
-  - Demo
-date: "2016-04-27T00:00:00Z"
+Role: Practical Manager (Contribution: 80%)
 
-# Optional external URL for project (replaces project detail page).
-# external_link: https://example.org
+Keywords: driver’s emotion, driver anger, road rage, emotion induction, physiological signals
 
-image:
-  caption: Photo by Toa Heftiba on Unsplash
-  focal_point: Smart
---- -->
+Research Goal: Study on the characteristics of physiological signals during driver anger induction in a vehicle simulator environment.
+
+Research Introduction:
+This research focuses on inducing anger in drivers using emotion induction techniques within a vehicle simulator environment and studying the characteristics of physiological signals during the anger state.
+To appropriately induce anger in drivers, a combination of emotion induction techniques was used, including visual stimuli (video), autobiographical recall, and simulator driving.
+The study found changes in physiological signals (such as heart rate and respiration) in the angry state compared to the neutral baseline state of the drivers.
+The findings of this research will be utilized for the development and validation of driver emotion recognition systems.
+
+Research Achievements:
+• Master's Thesis

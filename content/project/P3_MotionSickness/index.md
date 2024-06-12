@@ -3,9 +3,9 @@ title: Driver Motion Sickness
 summary: |2-
     - Sponsor: HYUNDAI MOBIS
     - Period: Jan. 2022 – Oct. 2022
-    - Role: Practical Assistant
+    - Role: Practical Assistant (Contribution: 10%)
 
-    -(image click) This study is a research project conducting analysis of motion sickness reduction effects based on real-world driving and on-road experiment data applying passenger motion sickness reduction factors.
+    - This research aims to develop and verify the effectiveness of motion sickness reduction elements for passengers using a vehicle simulator and real-world driving environments. (detail)
 tags:
   - Completed
 date: '2024-04-28T00:00:00Z'
@@ -34,10 +34,24 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: P3_Motion Sickness
 ---
+Research Title: Development of Motion Sickness Reduction Metrics
 
-SOTIF SOTIF Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-s, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+Sponsor: HYUNDAI MOBIS
+Research Period: 2022.01.03 - 2022.10.31
+Participation Period: 2022.08.01 - 2022.10.31
+ * Participated in the research as a master's student at Kookmin University
+ 
+Role: Practical Assistant (Contribution: 10%)
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Keywords: Motion sickness, electroencephalogram (EEG)
 
-SOTIF
+Research Goal: Development of elements to reduce passenger motion sickness and verification of their effectiveness.
+
+Research Introduction:
+This research aims to develop and verify the effectiveness of motion sickness reduction elements for passengers using a vehicle simulator and real-world driving environments. The motion sickness reduction elements are categorized into three main types: lateral information display (visual), longitudinal information headrest alerts (auditory), and motion sickness prevention scents (olfactory).
+Passengers were seated in the second row of a vehicle driving on an urban test road (PG) while performing non-driving-related tasks (NDRT) to induce motion sickness.
+As a result, the study identified the effectiveness of various combinations of motion sickness reduction elements.
+The findings of this research are intended to be utilized to reduce motion sickness in passengers of autonomous and electric vehicles.
+
+Research Achievements:
+• (None)

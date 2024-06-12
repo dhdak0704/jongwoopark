@@ -39,9 +39,11 @@ Research Title: Development of an Inattention Reduction Device based on Brainwav
 Sponsor: HYUNDAI MOBIS
 Research Period: 2021.05.31 - 2021.12.31
 Participation Period: 2021.09.01 - 2021.12.31
-Role:Practitioner (Contribution: 30%)
+ * Participated in the research as a master's student at Kookmin University
 
-Keywords:inattention, electroencephalogram (EEG), driver monitoring system (DMS), alert
+Role: Practitioner (Contribution: 30%)
+
+Keywords: inattention, electroencephalogram (EEG), driver monitoring system (DMS), alert
 
 Research Goal: Verification of the effectiveness of a warning system in a brainwave-based driver drowsiness and inattention reduction device (earset).
 

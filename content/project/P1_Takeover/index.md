@@ -39,6 +39,7 @@ Research Title: Development of Driver Risk Scenario and Response Technologies fo
 Sponsor: Namyang R&D Center of HMG
 Research Period: 2021.05.10 - 2022.05.09
 Participation Period: 2021.09.01 - 2022.05.09
+ * Participated in the research as a master's student at Kookmin University
 
 Role: Practitioner (Contribution: 30%)
 
