@@ -1,11 +1,12 @@
 ---
 title: SOTIF (Performance limit)
 summary: |2-
-  - Sponsor: Ministry of Trade, Industry and Energy
+  - Sponsor:
+      Ministry of Trade, Industry and Energy
   - Period: Sep. 2023 - May. 2024
   - Role: Practitioner (Contribution: 50%)
 
-    - This study addresses risk situations caused by performance limitations(SOTIF) rather than failures in the context of Level 4 autonomous driving systems. (detail)
+  - This study addresses risk situations caused by performance limitations(SOTIF) rather than failures in the context of Level 4 autonomous driving systems. (detail)
 tags: 
   - Completed
 date: '2024-04-30T00:00:00Z'
