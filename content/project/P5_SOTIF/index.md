@@ -1,10 +1,7 @@
 ---
 title: SOTIF (Performance limit)
 summary: |2-
- | ![Examples of SOTIF Scenarios](/workspaces/jongwoopark/images/SOTIF0.jpg "Examples of SOTIF Scenarios") | ### SOTIF (Performance limit)
-
-  - Sponsor:
-      - Ministry of Trade, Industry and Energy
+  - Sponsor: Ministry of Trade, Industry and Energy
   - Period: Sep. 2023 - May. 2024
   - Role: Practitioner (Contribution: 50%)
 
