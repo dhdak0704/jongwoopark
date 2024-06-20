@@ -49,20 +49,22 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Software (Analysis tool)
+    color: '#eeac02'
+    color_border: '#f0bf23'
     items:
       - name: MATLAB - Data processing, Visualization
         description: ''
-        percent: 90
+        percent: 80
         icon: python
         icon_pack: fab
       - name: MATLAB - Simulink, App designer
         description: ''
-        percent: 60
+        percent: 50
         icon: chart-line
         icon_pack: fas
       - name: SPSS - T-Test, ANOVA, Correlation
         description: ''
-        percent: 30
+        percent: 50
         icon: database
         icon_pack: fas
   - name: Hardware (Equipment)
@@ -103,7 +105,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Korean (native fluency)
+      - name: Korean - native fluency
         description: ''
         percent: 100
         icon: person-hiking
@@ -114,7 +116,7 @@ skills:
         icon: cat
         icon_pack: fas
 
-  - name: Certificate
+  - name: License
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
