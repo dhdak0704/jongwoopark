@@ -17,25 +17,27 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Researcher
+role: HMI Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: KATECH (Korea Automotive Technology Institue)
-    url: https://www.katech.re.kr/
+  - name: HFIDL (Human Factors & Interaction Design Lab)
+    url: https://interaction.yonsei.ac.kr/home
 
 # Short bio (displayed in user profile at end of posts)
 bio: ee?? research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Driver Safety (Driver misuse and System performance limitation)
-  - HMI (Human Machine Interation) in vehicles
-  - Human factors (Biometric data, Emotion)
+  - HMI / eHMI in Mobility
+  - Human factors (biometric, emotional, gaze data)
 
 # Education to show in About widget
 education:
   courses:
+    - course: Ph.D. Student, Department of Industrial Engineering
+      institution: Yonsei University
+      year: 2024.09 ~ present
     - course: M.S., Department of Automobile and IT Convergence
       institution: Kookmin University
       year: 2023
@@ -163,7 +165,9 @@ social:
 highlight_name: true
 ---
 
-Hello. I am Jongwoo Park, a researcher at the KATECH(Korea Automotive Technology Institue).
-I am currently working on the field of 'Driver Misuse and System Performance Limitations in Autonomous Vehicles'.
-My final research goal is to provide safe vehicles considering both driver misuse and system performance limitations.
+Hello, my name is Jongwoo Park, and I am a PhD student in the Department of Industrial Engineering at Yonsei University.
+I am conducting research on HMI/eHMI to improve usability in mobility environments.
+My research goal is to enhance user satisfaction by increasing usability with ensured safety in mobility.
+For more details, please check my website, and feel free to contact me with any questions.
+Thank you.
 {style="text-align: justify;"}
