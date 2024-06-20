@@ -63,6 +63,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Student Researcher
+          company: Yonsei University
+          company_url: 'https://interaction.yonsei.ac.kr/home'
+          company_logo: #'/workspaces/jongwoopark/static/uploads/KATECH_logo(png)' logo       
+          location: Seodaemun-gu, Seoul, KOREA
+          date_start: '2024-06-01'
+          date_end: ''
+          description: |2-
+              Department
+              * Human Factors & Interaction Design Laboratory (HFIDL) / Yonsei University Graduate School
+                            
+              Responsibilities
+              * Research on HMI/eHMI for Improving Usability in the Field of Future Mobility
+
         - title: Researcher
           company: KATECH (Korea Automotive Technology Institute)
           company_url: 'https://www.katech.re.kr/'
@@ -76,20 +90,6 @@ sections:
                             
               Responsibilities
               * Development of performance limit situation verification method from the SOTIF perspective for Lv.4 autonomus vehicles
-
-        # - title: Researcher
-        #   company: KOTI (Korea Transport Institute)
-        #   company_url: 'https://www.koti.re.kr/index.do'
-        #   company_logo: #'/workspaces/jongwoopark/static/uploads/KATECH_logo(png)' logo       
-        #   location: Sejong, KOREA
-        #   date_start: '2023-07-01'
-        #   date_end: '2023-08-14'
-        #   description: |2-
-        #       Department
-        #       * Department of Mobility Transformation
-                            
-        #       Responsibilities
-        #       * (being updated)
 
         - title: Student Researcher
           company: Kookmin University
