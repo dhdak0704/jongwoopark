@@ -83,7 +83,7 @@ sections:
           company_logo: #'/workspaces/jongwoopark/static/uploads/KATECH_logo(png)' logo       
           location: Cheonan-si, Chungnam, KOREA
           date_start: '2023-09-01'
-          date_end: ''
+          date_end: '2024-05-23'
           description: |2-
               Department
               * ITS R＆D Department / Automated Driving Technology Research Division
