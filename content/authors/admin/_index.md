@@ -30,7 +30,7 @@ bio: ee?? research interests include distributed robotics, mobile computing and 
 # Interests to show in About widget
 interests:
   - HMI / eHMI in Mobility
-  - Human factors (biometric, emotional, gaze data)
+  - Human factors
 
 # Education to show in About widget
 education:
