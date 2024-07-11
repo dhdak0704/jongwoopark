@@ -66,7 +66,7 @@ sections:
         - title: Student Researcher
           company: Yonsei University
           company_url: 'https://interaction.yonsei.ac.kr/home'
-          company_logo: '/workspaces/jongwoopark/images/yonsei_logo.png'
+          company_logo: '/workspaces/jongwoopark/images/yonsei_logo.png' logo
           location: Seodaemun-gu, Seoul, KOREA
           date_start: '2024-06-01'
           date_end: ''
